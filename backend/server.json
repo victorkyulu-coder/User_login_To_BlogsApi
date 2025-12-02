@@ -1,0 +1,8 @@
+{
+  "/blogs": "/blogs",
+  "/blogs/trash": "/blogs?deleted=true",
+  "/blogs/active": "/blogs?deleted=false",
+  "/blogs/:id": "/blogs/:id",
+  "/users": "/users",
+  "/auth/login": "/users"
+}

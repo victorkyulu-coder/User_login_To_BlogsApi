@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Victor",
+      "lastName": "Kyulu",
+      "email": "victor@example.com",
+      "password": "123456"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "First Blog",
+      "body": "This is the first blog entry.",
+      "author": "Victor Kyulu",
+      "image": "",
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "title": "Second Blog",
+      "body": "Welcome to the second blog.",
+      "author": "John Doe",
+      "image": "",
+      "deleted": false
+    },
+    {
+      "title": "Fish Farming ",
+      "body": "Basic factors to be followed while farming \nAdhere to the requirements",
+      "authorId": 1764699938432,
+      "id": 3
+    },
+    {
+      "title": "lifestyle",
+      "body": "basic life lifestyle of life in Kenya",
+      "authorId": 1764701651300,
+      "id": 4
+    }
+  ]
+}
