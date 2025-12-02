@@ -19,6 +19,9 @@ export default function About() {
         <li>🔐 Secure user registration & login</li>
         <li>📝 Create blog posts</li>
         <li>✏ Edit your own posts</li>
+        <li>🔍 View posts by other users</li >
+        <li>🛠️ Edit your profile</li>
+        <li>📤 Logout securely</li>
         <li>🗑 Delete your own posts</li>
         <li>📄 Read all public posts</li>
       </ul>

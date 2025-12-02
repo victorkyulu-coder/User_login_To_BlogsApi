@@ -6,7 +6,7 @@ BACKEND:
   npm install
   npm start
   - Server will run at http://localhost:5000
-  - db.json holds users and blogs
+  - database holds users and blogs
 
 FRONTEND:
   cd frontend
